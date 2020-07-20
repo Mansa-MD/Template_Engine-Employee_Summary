@@ -4,6 +4,7 @@
 
 # Employee Summary
 # Description
+* ![](assets/My_team.jpg)
 
 # Table of Contents
 * [Installation](#Installation)
@@ -16,7 +17,8 @@
 This application runs locally and the only way to download would be to clone or downlaod this repository at the moment.
 * Run 'npm install'
 # Usage
-* Run 'node index.js'
+* Run 'node app.js'
+* Video Link: https://drive.google.com/file/d/1sPy-j4dLhAu12ggdbfetBALFJUZYWq1X/view?usp=sharing
 # License
 MIT License
 
@@ -42,7 +44,7 @@ SOFTWARE.
 # Contributing
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.
 # Tests
-No tests
+* ![](assets/test.jpg)
 # Questions
 Please email me ↓ for any questions
 * [Mansa-MD](mailto:mory.d192@gmail.com?subject=[GitHub]%20Good%20ReadMe%20Generator)
